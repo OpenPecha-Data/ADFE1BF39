@@ -1,0 +1,21 @@
+id: ADFE1BF39
+title: 'MSV 1,05: Carmavastu'
+type: translation
+pechas:
+- I32292BBE
+- I2B5A694B
+- I5466924F
+- I07752C7C
+source_metadata:
+  languages:
+  - sa
+  - bo
+  - zh
+  datatype: PlainText
+  created_at: 2023-02-09 15:05:54.858705
+  last_modified_at: 2023-02-09 15:05:54.858718
+alignment_to_base:
+  I32292BBE/DA28: FDF9
+  I2B5A694B/BF64: FDF9
+  I5466924F/3161: FDF9
+  I07752C7C/2096: FDF9
